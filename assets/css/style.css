@@ -6113,6 +6113,8 @@ Video wave Style*/
 Nice select Area Style*/
 .nice-select .list {
   width: 100%;
+  height: 80px;
+  overflow-y: scroll;
   border-radius: 0;
 }
 
