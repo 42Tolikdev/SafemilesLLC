@@ -48,11 +48,11 @@ Default Style
 @import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;0,900;1,100;1,300&display=swap");
 
-#move-left-pricing{
-  position: relative;
-  margin-left: 200px;
-}
 
+#welcome-safemiles{
+  color: white;
+  font-size: 1rem;
+}
 body {
   font-size: 16px;
   font-family: "Lato", sans-serif;
@@ -1488,7 +1488,9 @@ Choose Area Style
 }
 
 .choose-us-img {
-  margin-bottom: 30px;
+  padding-left: 10px;
+  padding-top: 10px;
+  margin-bottom: 0;
 }
 
 /*
